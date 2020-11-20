@@ -1,0 +1,58 @@
+{
+  "contacts": [
+    {
+      "name": "Person One",
+      "phone": "1234567891",
+      "address": "Country One, City One, Street 1",
+      "email": "person_one@gmail.com"
+    },
+    {
+      "name": "Person Two",
+      "phone": "1234567892",
+      "address": "Country Two, City Two, Street 2",
+      "email": "person_two@gmail.com"
+    },
+    {
+      "name": "Person Three",
+      "phone": "1234567893",
+      "address": "Country Three, City Three, Street 3",
+      "email": "person_three@gmail.com"
+    },
+    {
+      "name": "Person Four",
+      "phone": "1234567894",
+      "address": "Country Four, City Four, Street 4",
+      "email": "person_four@gmail.com"
+    },
+    {
+      "name": "Person Five",
+      "phone": "1234567895",
+      "address": "Country Five, City Five, Street 5",
+      "email": "person_five@gmail.com"
+    },
+    {
+      "name": "Person Six",
+      "phone": "1234567896",
+      "address": "Country Six, City Six, Street 6",
+      "email": "person_six@gmail.com"
+    },
+    {
+      "name": "Person Seven",
+      "phone": "1234567897",
+      "address": "Country Seven, City Seven, Street 7",
+      "email": "person_seven@gmail.com"
+    },
+    {
+      "name": "Person Eight",
+      "phone": "1234567898",
+      "address": "Country Eight, City Eight, Street 8",
+      "email": "person_eight@gmail.com"
+    },
+    {
+      "name": "Person Nine",
+      "phone": "1234567899",
+      "address": "Country Nine, City Nine, Street 9",
+      "email": "person_nine@gmail.com"
+    }
+  ]
+}
